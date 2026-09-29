@@ -1,0 +1,11 @@
+{
+  "name": "task-board",
+  "version": "1.0.0",
+  "description": "To-do list app with notes, priorities and due dates",
+  "type": "commonjs",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
